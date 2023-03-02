@@ -8,6 +8,8 @@ public class Javaproject {
 		System.out.println(30+40);
 		System.out.println("hello java world");
 System.out.println("Hello good evening");
+System.out.println(20+20);
+System.out.println("hi");
 	}
 
 }
