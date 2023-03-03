@@ -10,6 +10,7 @@ public class Javaproject {
 System.out.println("Hello good evening");
 System.out.println(20+20);
 System.out.println("hi");
+System.out.println("I am testing jenins manually build option");
 	}
 
 }
