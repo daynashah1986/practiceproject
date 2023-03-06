@@ -20,6 +20,7 @@ System.out.println("Hello");
 System.out.println("Hi. Good evening");
 System.out.println("Hello everyone");
 System.out.println(30+40);
+System.out.println("Welcome to Java world");
 
 	}
 
