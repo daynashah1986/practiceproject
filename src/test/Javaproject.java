@@ -22,6 +22,7 @@ System.out.println("Hello everyone");
 System.out.println(30+40);
 System.out.println("Welcome to Java world");
 System.out.println("Testing webhook for the first time");
+System.out.println("Today top deal --- iPhone 14pro $200 discount");
 	}
 
 }
