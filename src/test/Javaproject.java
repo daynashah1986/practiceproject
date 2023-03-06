@@ -17,6 +17,8 @@ System.out.println("Welcome to Java");
 System.out.println("Testing pollSCM");
 System.out.println("Good evening");
 System.out.println("Hello");
+System.out.println("Hi. Good evening");
+
 	}
 
 }
