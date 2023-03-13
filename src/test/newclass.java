@@ -6,6 +6,7 @@ public class newclass {
 		System.out.println("Hello");
 		System.out.println("Hi");
 		System.out.println("Good evening");
+		System.out.println("Hey");
 
 	}
 
